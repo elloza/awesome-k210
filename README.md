@@ -4,6 +4,7 @@ A curated list of awesome K210 hardware, projects and resources.
 
 # M5StickV - Resources for beginers.
 
+* FIRST POST MUST READ!!: http://forum.m5stack.com/topic/1226/m5stickv-link-info-dump
 * Useful Scripts: https://github.com/sipeed/MaixPy_scripts
 * Maixpy Docs: https://maixpy.sipeed.com/en/
 * NNCase repo: https://github.com/kendryte/nncase/blob/master/README.md
