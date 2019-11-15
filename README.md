@@ -32,6 +32,8 @@ A curated list of awesome K210 hardware, projects and resources.
 * MobileNet your own data: https://www.instructables.com/id/Transfer-Learning-With-Sipeed-MaiX-and-Arduino-IDE/
 * COLAB MNIST Keras --> TFLITE --> KMODEL: https://github.com/ashitani/jupyter_examples/blob/master/mnist_keras_maixpy_colab.ipynb
 * COLAB Transfer learning ([Ref1](https://iotdiary.blogspot.com/2019/07/maixpy-go-mobilenet-transfer-learning.html)[Ref2](https://www.instructables.com/id/Transfer-Learning-With-Sipeed-MaiX-and-Arduino-IDE/)) : https://colab.research.google.com/drive/1mirG8BSoB3k87mh-qyY3-8-ZXj0XB6h6#scrollTo=86Y5ihRDB5v9
+* Yolo + Joker Face image: https://github.com/staberas/Joker-Masks-M5StickV
+* Brownie project, larger project [very useful]: https://github.com/ksasao/brownie
 
 ## Communications
 
