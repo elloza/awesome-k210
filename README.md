@@ -57,6 +57,7 @@ A curated list of awesome K210 hardware, projects and resources.
 
 * M5StickV with Servos: https://www.thingiverse.com/thing:3851179 [Tutorial](https://yoichi-41.hatenablog.com/entry/2019/09/13/232137)
 * USB holder and support: https://www.thingiverse.com/thing:3773369
+* MAIX DOCK CASE AND STAND https://www.thingiverse.com/thing:3708687
 
 # Maix Bit
 
