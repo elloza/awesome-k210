@@ -11,13 +11,14 @@ A curated list of awesome K210 hardware, projects and resources.
 * Quick Start: https://github.com/m5stack/m5-docs/blob/master/docs/en/quick_start/m5stickv/m5stickv_quick_start.md#Download
 
 
-
 ## Firmware y tooling
-
 * Create your own firmware: https://raspberrypi.mongonta.com/howto-build-firmware-of-m5stickv/
 * Build the last firmware: https://ai.rs/geek-projects/m5stickv-how-to-flash-micropython-maix-series-k210/
 * What is a Kfpg package?: http://blog.sipeed.com/p/390.html
 
+# USEFUL LIBRARIES
+* aXeleRate https://github.com/AIWintermuteAI/aXeleRate
+* Video aXeleRate https://www.youtube.com/watch?v=8lp_45duWmM
 
 ## Machine Learning
 * Maixpy Repo Toolbox (ckpt  ->  pb  <->  tflite  ->  kmodel): https://github.com/sipeed/Maix_Toolbox
@@ -34,12 +35,22 @@ A curated list of awesome K210 hardware, projects and resources.
 * COLAB Transfer learning ([Ref1](https://iotdiary.blogspot.com/2019/07/maixpy-go-mobilenet-transfer-learning.html)[Ref2](https://www.instructables.com/id/Transfer-Learning-With-Sipeed-MaiX-and-Arduino-IDE/)) : https://colab.research.google.com/drive/1mirG8BSoB3k87mh-qyY3-8-ZXj0XB6h6#scrollTo=86Y5ihRDB5v9
 * Yolo + Joker Face image: https://github.com/staberas/Joker-Masks-M5StickV
 * Brownie project, larger project [very useful]: https://github.com/ksasao/brownie
+* Maix LogoClassifier https://github.com/andriyadi/Maix-LogoClassifier
+* MobileNet_v2 to TFLite https://colab.research.google.com/drive/1fDWZfce2BJnU49xyrvwXYpX3EW3UK6QH#scrollTo=o5JPT0yOkiK6
+* Cresco Blog Japanese https://www.cresco.co.jp/blog/entry/10093/
+* Creating an Image Classification Model for M5StickV by Transfer Learning https://colab.research.google.com/drive/1mirG8BSoB3k87mh-qyY3-8-ZXj0XB6h6#scrollTo=DCfsTMT9wqQa&line=3&uniqifier=1
+* Transfer Learning Image Recognition With K210 Boards and Arduino IDE/Micropython https://www.instructables.com/id/Transfer-Learning-With-Sipeed-MaiX-and-Arduino-IDE/
+
+## Courses Capstones
+* CSE/EE475: Embedded Capstone: Edge computing for IoT https://courses.cs.washington.edu/courses/cse475/19au/
+* Object Detector Tutorial: Run Yolo2 on Sipeed Maix Bit https://courses.cs.washington.edu/courses/cse475/19au/labs/yolo2_tutorial.html
+* Course Transfer Learning and H5 --> TENSORFLOWLITE https://github.com/tensorflow/examples/tree/master/courses/udacity_intro_to_tensorflow_lite
+* MAixPy: Object detector - MobileNet and YOLOv2 on Sipeed MAix Dock https://lemariva.com/blog/rss/maixpy-object-detector-mobilenet-and-yolov2-sipeed-maix-dock
 
 ## Communications
 
 * UART communication Example M5StickV--Arduino: https://qiita.com/nnn112358/items/5efd926fea20cd6c2c43
 * Ksasao Examples: https://gist.github.com/ksasao
-*
 
 ## 3D Models
 
