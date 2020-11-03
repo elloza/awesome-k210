@@ -41,7 +41,7 @@ A curated list of awesome K210 hardware, projects and resources.
 * Creating an Image Classification Model for M5StickV by Transfer Learning https://colab.research.google.com/drive/1mirG8BSoB3k87mh-qyY3-8-ZXj0XB6h6#scrollTo=DCfsTMT9wqQa&line=3&uniqifier=1
 * Transfer Learning Image Recognition With K210 Boards and Arduino IDE/Micropython https://www.instructables.com/id/Transfer-Learning-With-Sipeed-MaiX-and-Arduino-IDE/
 * Maixpy GO Mobilenet Transfer learning for Image Classfication COLABS! https://iotdiary.blogspot.com/2019/07/maixpy-go-mobilenet-transfer-learning.html
-
+* Racoon MaixPY YOLOv2 https://courses.cs.washington.edu/courses/cse475/19au/labs/yolo2_tutorial.html
 ## Courses Capstones
 * CSE/EE475: Embedded Capstone: Edge computing for IoT https://courses.cs.washington.edu/courses/cse475/19au/
 * Object Detector Tutorial: Run Yolo2 on Sipeed Maix Bit https://courses.cs.washington.edu/courses/cse475/19au/labs/yolo2_tutorial.html
