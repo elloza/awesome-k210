@@ -50,6 +50,7 @@ A curated list of awesome K210 hardware, projects and resources.
 # Final CS Degree projects
 
 * SALVADOR ALBARRÁN TIRADAS (Spanish) https://eprints.ucm.es/61621/1/ALBARRAN_TIRADAS_Aceleracion_de_AI_en_dispositivos_de_bajo_consumo_4398577_1316782495.pdf https://github.com/SalvadorAlbarran/TFG2020
+* LUCIO GIORDANO https://eprints.ucm.es/62112/1/LUCIO_GIORDANO_AIoTA_Kendryte_K210_Proof_of_Concept_4286351_1924719630.pdf
 
 ## Communications
 
