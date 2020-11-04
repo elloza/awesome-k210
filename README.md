@@ -10,7 +10,6 @@ A curated list of awesome K210 hardware, projects and resources.
 * NNCase repo: https://github.com/kendryte/nncase/blob/master/README.md
 * Quick Start: https://github.com/m5stack/m5-docs/blob/master/docs/en/quick_start/m5stickv/m5stickv_quick_start.md#Download
 
-
 ## Firmware y tooling
 * Create your own firmware: https://raspberrypi.mongonta.com/howto-build-firmware-of-m5stickv/
 * Build the last firmware: https://ai.rs/geek-projects/m5stickv-how-to-flash-micropython-maix-series-k210/
@@ -47,6 +46,10 @@ A curated list of awesome K210 hardware, projects and resources.
 * Object Detector Tutorial: Run Yolo2 on Sipeed Maix Bit https://courses.cs.washington.edu/courses/cse475/19au/labs/yolo2_tutorial.html
 * Course Transfer Learning and H5 --> TENSORFLOWLITE https://github.com/tensorflow/examples/tree/master/courses/udacity_intro_to_tensorflow_lite
 * MAixPy: Object detector - MobileNet and YOLOv2 on Sipeed MAix Dock https://lemariva.com/blog/rss/maixpy-object-detector-mobilenet-and-yolov2-sipeed-maix-dock
+
+# Final CS Degree projects
+
+* SALVADOR ALBARRÁN TIRADAS (Spanish) https://eprints.ucm.es/61621/1/ALBARRAN_TIRADAS_Aceleracion_de_AI_en_dispositivos_de_bajo_consumo_4398577_1316782495.pdf https://github.com/SalvadorAlbarran/TFG2020
 
 ## Communications
 
