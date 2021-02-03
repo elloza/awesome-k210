@@ -15,7 +15,7 @@ A curated list of awesome K210 hardware, projects and resources.
 ## Firmware y tooling
 * Create your own firmware: https://raspberrypi.mongonta.com/howto-build-firmware-of-m5stickv/
 * Build the last firmware: https://ai.rs/geek-projects/m5stickv-how-to-flash-micropython-maix-series-k210/
-* What is a Kfpg package?: http://blog.sipeed.com/p/390.html
+* What is a Kfpkg package?: http://blog.sipeed.com/p/390.html
 
 # USEFUL LIBRARIES
 * aXeleRate https://github.com/AIWintermuteAI/aXeleRate
