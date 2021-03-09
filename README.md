@@ -26,6 +26,7 @@ A curated list of awesome K210 hardware, projects and resources.
 * Maixpy Workspace (Example MNIST): https://github.com/sipeed/Maix-TF-workspace
 * Blog Sipeed Examples: http://blog.sipeed.com/p/category/maix-software/maixpy
 * MNIST Example: http://blog.sipeed.com/p/673.html
+* MNIST COMPLETE EXAMPLE MAIXDUINO: https://blog.csdn.net/weixin_44874976/article/details/104487069
 * Tiny Yolo 20 classes: http://blog.sipeed.com/p/677.html
 * Face tracking robot: http://blog.sipeed.com/p/233.html#more-233
 * HAR project: https://bbs.sipeed.com/t/topic/863
