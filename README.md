@@ -16,6 +16,7 @@ A curated list of awesome K210 hardware, projects and resources.
 * Create your own firmware: https://raspberrypi.mongonta.com/howto-build-firmware-of-m5stickv/
 * Build the last firmware: https://ai.rs/geek-projects/m5stickv-how-to-flash-micropython-maix-series-k210/
 * What is a Kfpkg package?: http://blog.sipeed.com/p/390.html
+* U8G2 HAL - [U8G2 Monochrome Display Drivers - Hardware Abstraction Layer for K210](https://github.com/sreedevk/u8g2-kendryte-sdk-hal)
 
 # USEFUL LIBRARIES
 * aXeleRate https://github.com/AIWintermuteAI/aXeleRate
